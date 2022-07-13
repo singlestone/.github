@@ -12,7 +12,7 @@ Big data is only getting bigger. The Cloud allows your competitors to be smaller
 
 We work at the intersection of all of these challenges, enabling true enterprise speed and agility. We build teams with the right mix of in-demand skills to help you answer the questions you’re asking.
 
-We are experts in the methods, tools and technologies that are changing the way people think and work.
+We are experts in the methods, tools, and technologies that are changing the way people think and work.
 
 - :earth_americas: [Website](https://www.singlestoneconsulting.com)
 - :newspaper: [Blog](https://www.singlestoneconsulting.com/ripple/)
